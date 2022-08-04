@@ -37,6 +37,14 @@ h2 {
   font-size: 60px;
 }
 
+p {
+  position: absolute;
+  top: 80%;
+  left: 35%;  
+  color: #fff;
+  font-size: 40px;
+}
+
 button {
   border: none;
   padding-top: 10px;
